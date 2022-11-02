@@ -19,3 +19,8 @@ pip install -r requirements.txt
 ```bash
 python main.py
 ```
+
+# Result
+The result of the spiral sample.
+
+![](https://github.com/veliglmz/nice-flow-model/blob/main/output.png)
