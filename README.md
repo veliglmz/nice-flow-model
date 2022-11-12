@@ -1,5 +1,5 @@
 # Python Implementation of NICE: Nonlinear Independent Components Estimation
-This code is an unofficial Python implementation of [NICE: Nonlinear Independent Components Estimation](https://arxiv.org/abs/1410.8516). I trained a simple model with a generated spiral train data. I tested it using Gaussian distribution.
+This code is an unofficial Python implementation of [NICE: Nonlinear Independent Components Estimation](https://arxiv.org/abs/1410.8516). I trained a simple model with a generated spiral train data. I tested it using uniform distribution on the interval [0, 1).
 
 ## Installation
 * Clone the repository.
